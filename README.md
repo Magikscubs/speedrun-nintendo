@@ -76,3 +76,4 @@ Les différents glitchs utilisés en speedrun
      
      ---
       
+      {Insertionde vidéo explicative}
