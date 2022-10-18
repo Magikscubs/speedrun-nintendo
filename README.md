@@ -142,7 +142,7 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
       
       Une fois le glitch éffectué, le joueur peut se ballader sur la carte des espaces intérieurs, et ce car toutes ces cartes sont uniquement séparé par quelque mur. Voici la carte en question.
       
-      <img src="http://zanapher.free.fr/zelda/images/all.png" width="700" height="480">
+      <img src="https://cdn.discordapp.com/attachments/1031632923968950282/1032029128599293982/unknown.png" width="600" height="600">
       
       ###### [source (reddit)](https://www.reddit.com/r/truezelda/comments/2lqejv/has_the_interior_map_of_a_link_to_the_past_ever/)
       ---
@@ -163,4 +163,4 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
    ###### source (mon gameplay)
    ---
    
-   Le glitch peut aussi s'effectuer dans le chateau 
+   Le glitch peut aussi s'effectuer au chateau, dans l'aile Ouest au niveau supérieur de l'échelle. 
