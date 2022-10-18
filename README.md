@@ -140,12 +140,27 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
       couche actuel | 2 vers 1| -} | couche actuel | 2 vers 1| -} | couche actuel | 1       |
       saute ?       | oui     | -} | saute ?       | non     | -} | saute ?       | non     |
       
+      Une fois le glitch éffectué, le joueur peut se ballader sur la carte des espaces intérieurs, et ce car toutes ces cartes sont uniquement séparé par quelque mur. Voici la carte en question.
+      
+      <img src="http://zanapher.free.fr/zelda/images/all.png" width="700" height="480">
+      
+      ###### [source (reddit)](https://www.reddit.com/r/truezelda/comments/2lqejv/has_the_interior_map_of_a_link_to_the_past_ever/)
+      ---
+      
       Pour explication plus détaillé voici une vidéo `Anglaise` d'une explication du glitch dont je me suis inspiré pour
       expliquer le glitch
       
       <a href="https://www.youtube.com/watch?v=CfW4xhqrK-c" target="_blank"><img src="https://i.ytimg.com/vi/CfW4xhqrK-c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDA1sEvdYx9DBGxKdDRiLfhvAKGA" 
       alt="IMAGE ALT TEXT HERE" width="500" height="300" border="1" /></a>
-      
-      
       ---
       
+* ### Le one frame clip
+
+   contrairement à l'explorer glitch, le one frame clip peut s'effectuer quasiment partout sur la carte à condition d'avoir d'avoir une falaise avec un angle de 45° comme sur l'image ci dessous
+      
+   <img src="https://cdn.discordapp.com/attachments/1031632923968950282/1032006336415801444/45.png" width="700" height="480">
+      
+   ###### source (mon gameplay)
+   ---
+   
+   Le glitch peut aussi s'effectuer dans le chateau 
