@@ -143,6 +143,6 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
       Pour explication plus détaillé voici une vidéo `Anglaise` d'une explication du glitch dont je me suis inspiré pour
       expliquer le glitch
       
-      <a href="https://www.youtube.com/watch?v=CfW4xhqrK-c&t=501s" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+      <a href="https://www.youtube.com/watch?v=CfW4xhqrK-c" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
       alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
       ---
