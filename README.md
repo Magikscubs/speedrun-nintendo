@@ -133,7 +133,7 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
       Quand le joueur sauvegarde et quitte en plein saut, La mémoire va conserver un état de saut ce qu'il ne devrait pas faire. Quand Link se fait toucher
       par le garde bleu, Link va passer par plusieurs état dont l'état de dégat qui va forcer la fin de l'état de saut afin de retourner à l'état normal.
       
-      Etat          | saut    | -} | Etat          | saut    | -} | Etat          | normal  |
+      Etat          | saut    | -} | Etat          | dégat   | -} | Etat          | normal  |
       :-:           | :-:     |----| :-:           | :-:     |----| :-:           | :-:     |
       invincible    | non     | -} | invincible    | oui     | -} | invincible    | non     |
       objet tenu ?  | non     | -} | objet tenu ?  | non     | -} | objet tenu ?  | non     |
@@ -156,6 +156,7 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
       
 * ### Le one frame clip
 
+   Le one frame clip est un glitch dans lequel le joueur passe à travers la hitbox d'une paroie , ce glitch est celui utilisé par le top des speedrunners car
    contrairement à l'explorer glitch, le one frame clip peut s'effectuer quasiment partout sur la carte à condition d'avoir d'avoir une falaise avec un angle de 45° comme sur l'image ci dessous
       
    <img src="https://cdn.discordapp.com/attachments/1031632923968950282/1032006336415801444/45.png" width="700" height="480">
@@ -163,4 +164,16 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
    ###### source (mon gameplay)
    ---
    
-   Le glitch peut aussi s'effectuer au chateau, dans l'aile Ouest au niveau supérieur de l'échelle. 
+   Le glitch peut aussi s'effectuer au chateau, dans l'aile Ouest au niveau supérieur cette échelle.
+   
+   <img src="https://cdn.discordapp.com/attachments/1031632923968950282/1032032184720179320/unknown.png" width="700" height="480">
+      
+   ###### source (mon gameplay)
+   ---
+   
+   Dans le cas du one frame glitch avec l'escalier, le but est d'alligner la ligne de pixel de l'échelle avec le pixel du milieu de l'oreille gauche de Link
+   puis d'avancer d'un pixel sur la diagonal en haut à droite.
+   
+   Il faut executer cette suite d'action 7 fois puis traverser la rampe à gauche de l'escalier en n'appuyant pas sur la croix diréctionel bas.
+   Une fois à la couche inferieur de l'écran le joueur peut sauter à gauche si il se colle à la paroit
+   
