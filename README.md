@@ -20,7 +20,7 @@
       
    * [Le one frame clip](#6)
 
-# Glitches et leurs avantages en speedrun 
+# [Glitches et leurs avantages en speedrun][#1]
    
 |Explorer Glitch|One frame clip|
 
