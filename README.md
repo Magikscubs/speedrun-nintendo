@@ -20,7 +20,7 @@
       
    * [Le one frame clip](#6)
 
-# Glitches et leurs avantages en speedrun {#1}
+# Glitches et leurs avantages en speedrun 
    
 |Explorer Glitch|One frame clip|
 
@@ -175,7 +175,7 @@
       
       ---
       
-* ### Le one frame clip
+* ### [Le one frame clip] {#6}
 
    Le one frame clip est un glitch dans lequel le joueur passe à travers la hitbox d'une paroie , ce glitch est celui utilisé par le top des speedrunners car
    contrairement à l'explorer glitch, le one frame clip peut s'effectuer quasiment partout sur la carte à condition d'avoir d'avoir une falaise avec un angle de 45° comme sur l'image ci dessous
