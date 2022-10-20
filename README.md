@@ -19,22 +19,24 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
 
       Comme dit précédament, l'explorer glitch est facile à faire et ne demande aucune connaissance du jeu pour effectué.
       
-      <img src="https://cdn.discordapp.com/attachments/1031632923968950282/1031632949386432593/unknown.png" width="700" height="480">
+      ![Texte alternatif](https://cdn.discordapp.com/attachments/1031632923968950282/1031632949386432593/unknown.png)
+      
       
       ###### source (mon gameplay)
       ---
 
       Le Début est commun au jeu, enfin jusqu'a l'entrée dans le hall du chateau.
       
-      <img src="https://cdn.discordapp.com/attachments/1031632923968950282/1031637977841025065/unknown.png" width="700" height="480">
+      ![Texte alternatif](https://cdn.discordapp.com/attachments/1031632923968950282/1031637977841025065/unknown.png)
+     
       
       ###### source (mon gameplay)
        ---
-       
+
       Une fois arrivé dans le hall il suffit de prendre les escalier en face, de sauter depuis l'une des deux rampes
       puis de sauvegarder et quitter, comme ci dessous
        
-      <img src="https://cdn.discordapp.com/attachments/1031632923968950282/1031638863090831410/unknown.png" width="700" height="480">
+      ![Texte alternatif](https://cdn.discordapp.com/attachments/1031632923968950282/1031638863090831410/unknown.png)
       
       ###### source (mon gameplay)
       ---
@@ -42,15 +44,11 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
       Apres rechargé la sauvegarde, il faut retourner dans le hall du chateau puis se rendre dans l'aile Ouest en passant par l'étage.
       Cette étape est la plus compliqué, car il faut bien faire attention à **`ne pas se faire toucher`** lors de la manipulation
       
-      <img src="https://cdn.discordapp.com/attachments/1031632923968950282/1031648547147362314/unknown.png" width="700" height="480">
-      
-      ###### source (mon gameplay)
-      ---
       
       Une fois arrivé dans l'aile Ouest, il faudra juste se faire toucher par le chevalier en armure bleu en étant collé à la paroie,
       une fois touché il faut maintenir la croix directionel vers la gauche. Puis vous voila dans le mur ! 
       
-      <img src="https://cdn.discordapp.com/attachments/1031632923968950282/1031650682501087232/unknown.png" width="700" height="480">
+      ![Texte alternatif](https://cdn.discordapp.com/attachments/1031632923968950282/1032738004294443108/6xo46l.gif)
       
       ###### source (mon gameplay)
       ---
@@ -61,14 +59,14 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
       Avancez de deux tableaux, quand vous arriverez dans le tableau montré ci-dessous partez vers la droite puis remontez lorsque le bout
       du sprite de Link aura disparu.
       
-      <img src="https://cdn.discordapp.com/attachments/1031632923968950282/1031653283116363866/unknown.png" width="700" height="480">
+      ![Texte alternatif](https://cdn.discordapp.com/attachments/1031632923968950282/1031653283116363866/unknown.png)
       
       ###### source (mon gameplay)
       ---
       
       A partir de ce point la il vous suffira d'avancer vers le haut jusqu'à finir le jeu.
       
-      <img src="https://cdn.discordapp.com/attachments/1031632923968950282/1031653851033501726/unknown.png" width="700" height="480">
+      ![Texte alternatif](https://cdn.discordapp.com/attachments/1031632923968950282/1031653851033501726/unknown.png)
       
       ###### source (mon gameplay)
       ---
@@ -80,7 +78,7 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
       La couche inferieur que l'on appelera 1, et la couche superieur que l'on appelera 2.
       Bien que certaines zones ne laisse pas paraitre les deux zones, il faut savoir qu'elles seront toujours présentes.
       
-      <img src="https://cdn.discordapp.com/attachments/1031632923968950282/1031980819062980608/Sans_titre.png" width="700" height="480">
+      ![Texte alternatif](https://cdn.discordapp.com/attachments/1031632923968950282/1031980819062980608/Sans_titre.png)
       
       #### source (mon gameplay)
       ---
@@ -140,9 +138,10 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
       couche actuel | 2 vers 1| -} | couche actuel | 2 vers 1| -} | couche actuel | 1       |
       saute ?       | oui     | -} | saute ?       | non     | -} | saute ?       | non     |
       
+      
       Une fois le glitch éffectué, le joueur peut se ballader sur la carte des espaces intérieurs, et ce car toutes ces cartes sont uniquement séparé par quelque mur. Voici la carte en question.
       
-      <img src="https://cdn.discordapp.com/attachments/1031632923968950282/1032029128599293982/unknown.png" width="600" height="600">
+      ![Texte alternatif](https://cdn.discordapp.com/attachments/1031632923968950282/1032029128599293982/unknown.png)
       
       ###### [source (reddit)](https://www.reddit.com/r/truezelda/comments/2lqejv/has_the_interior_map_of_a_link_to_the_past_ever/)
       ---
@@ -150,8 +149,10 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
       Pour explication plus détaillé voici une vidéo `Anglaise` d'une explication du glitch dont je me suis inspiré pour
       expliquer le glitch
       
-      <a href="https://www.youtube.com/watch?v=CfW4xhqrK-c" target="_blank"><img src="https://i.ytimg.com/vi/CfW4xhqrK-c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDA1sEvdYx9DBGxKdDRiLfhvAKGA" 
-      alt="IMAGE ALT TEXT HERE" width="500" height="300" border="1" /></a>
+       |[Lien de la vidéo](https://www.youtube.com/watch?v=CfW4xhqrK-c)|
+       |:-:|
+       |![Texte alternatif](https://i.ytimg.com/vi/CfW4xhqrK-c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDA1sEvdYx9DBGxKdDRiLfhvAKGA)|
+      
       ---
       
 * ### Le one frame clip
@@ -159,14 +160,14 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
    Le one frame clip est un glitch dans lequel le joueur passe à travers la hitbox d'une paroie , ce glitch est celui utilisé par le top des speedrunners car
    contrairement à l'explorer glitch, le one frame clip peut s'effectuer quasiment partout sur la carte à condition d'avoir d'avoir une falaise avec un angle de 45° comme sur l'image ci dessous
       
-   <img src="https://cdn.discordapp.com/attachments/1031632923968950282/1032006336415801444/45.png" width="700" height="480">
+   ![Texte alternatif](https://cdn.discordapp.com/attachments/1031632923968950282/1032006336415801444/45.png)
       
    ###### source (mon gameplay)
    ---
    
    Le glitch peut aussi s'effectuer au chateau, dans l'aile Ouest au niveau supérieur cette échelle.
    
-   <img src="https://cdn.discordapp.com/attachments/1031632923968950282/1032032184720179320/unknown.png" width="700" height="480">
+   ![Texte alternatif](https://cdn.discordapp.com/attachments/1031632923968950282/1032032184720179320/unknown.png)
       
    ###### source (mon gameplay)
    ---
@@ -177,12 +178,13 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
    Il faut executer cette suite d'action 7 fois puis traverser la rampe à gauche de l'escalier en n'appuyant pas sur la croix diréctionel bas.
    Une fois à la couche inferieur de l'écran le joueur peut sauter à gauche si il se colle à la paroit
 
-   Insérer GIF du glitch
+   ![Texte alternatif](https://cdn.discordapp.com/attachments/1031632923968950282/1032724597990240336/6xnqiy.gif)
 
    Dans le cas de l'exécution du one frame glitch sur les parois, le joueur devra se positioner comme sur l'image ci dessous
    (À noter que l'image a unique but de montrer le positionnement général pour effectuer le clip)
 
-   Insérer image
+   ![image](https://cdn.discordapp.com/attachments/1031632923968950282/1032739569935863908/unknown.png)
+
 
    Une fois positioné, le joueur devra répéter X fois la procédure suivante:
 
@@ -191,7 +193,10 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
 
    Après X fois, Link aura la possibilité de sauter par dessus la parois ce qui permettra à link de passer en explorer glitch.
 
-   Insertion GIF  link qui saute
+   |Sources:[Twitch (Andy)](https://www.twitch.tv/andy), [Speedrun.com (Andy)](https://www.speedrun.com/alttp/run/nz1lorme)|[Source:](https://www.youtube.com/watch?v=rcmAUcPm4R4)
+   |:-:|:-:|
+   |![image](https://cdn.discordapp.com/attachments/1031632923968950282/1032742013805789277/6xo6po.gif)|![image](https://cdn.discordapp.com/attachments/1031632923968950282/1032743239284965376/6xo7la.gif)
+   
 
 * ### Speedrunners et leurs temps
    
