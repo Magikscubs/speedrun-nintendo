@@ -1,10 +1,30 @@
 `Méthodes de speedrun pour Zelda No Densetsu`
 ======
 
-Zelda No Densetsu : Kamigami no Triforce ou plus connu sous le nom de Zelda a link to the past
-est une opportunité de se faire un nom dans les records mondiale du speedrun, de par le fait que l'un des glitch.
-L'explorer glitch est facile à réaliser permettant à quiconque de finir le jeu en un temps surprenant d'environs 3 minutes.
-Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent un autre glitch, le "one frame clip".
+>Zelda No Densetsu : Kamigami no Triforce ou plus connu sous le nom de Zelda a link to the past
+>est une opportunité de se faire un nom dans les records mondiale du speedrun, de par le fait que l'un des glitch.
+>L'explorer glitch est facile à réaliser permettant à quiconque de finir le jeu en un temps surprenant d'environs 3 minutes.
+>Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent un autre glitch, le "one frame clip".
+
+* Sommaire
+
+  * [Glitches et leurs avantages en speedrun](#1)
+ 
+  * [Les différents glitchs utilisés en speedrun](#2)
+ 
+    * [L'explorer glitch](#3)
+   
+    * [Son éxecution](#4)
+      
+   * [Explication du glitch](#5)
+      
+   * [Le one frame clip](#6)
+
+# Glitches et leurs avantages en speedrun {#1}
+   
+|Explorer Glitch|One frame clip|
+
+
 
 `Les différents glitchs utilisés en speedrun`
 ------
@@ -177,8 +197,10 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
    
    Il faut executer cette suite d'action 7 fois puis traverser la rampe à gauche de l'escalier en n'appuyant pas sur la croix diréctionel bas.
    Une fois à la couche inferieur de l'écran le joueur peut sauter à gauche si il se colle à la paroit
-
-   ![Texte alternatif](https://cdn.discordapp.com/attachments/1031632923968950282/1032724597990240336/6xnqiy.gif)
+   
+   |Source:[Youtube(superSKUJ)](https://www.youtube.com/watch?v=IefqzfT-ouk)|
+   |:-:|
+   |![Texte alternatif](https://cdn.discordapp.com/attachments/1031632923968950282/1032724597990240336/6xnqiy.gif)|
 
    Dans le cas de l'exécution du one frame glitch sur les parois, le joueur devra se positioner comme sur l'image ci dessous
    (À noter que l'image a unique but de montrer le positionnement général pour effectuer le clip)
@@ -193,10 +215,6 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
 
    Après X fois, Link aura la possibilité de sauter par dessus la parois ce qui permettra à link de passer en explorer glitch.
 
-   |Sources:[Twitch (Andy)](https://www.twitch.tv/andy), [Speedrun.com (Andy)](https://www.speedrun.com/alttp/run/nz1lorme)|[Source:](https://www.youtube.com/watch?v=rcmAUcPm4R4)
+   |Sources:[Twitch (Andy)](https://www.twitch.tv/andy), [Speedrun.com (Andy)](https://www.speedrun.com/alttp/run/nz1lorme)|Sources:[Youtube (Sirius Cord)](https://www.youtube.com/watch?v=rcmAUcPm4R4), [Speedrun.com (siriuscord)](https://www.speedrun.com/alttp/run/zq9vnkxy) 
    |:-:|:-:|
    |![image](https://cdn.discordapp.com/attachments/1031632923968950282/1032742013805789277/6xo6po.gif)|![image](https://cdn.discordapp.com/attachments/1031632923968950282/1032743239284965376/6xo7la.gif)
-   
-
-* ### Speedrunners et leurs temps
-   
