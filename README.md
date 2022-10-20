@@ -176,4 +176,22 @@ Bien que ce glitch soit facile à réaliser, le top des speedrunners utilisent u
    
    Il faut executer cette suite d'action 7 fois puis traverser la rampe à gauche de l'escalier en n'appuyant pas sur la croix diréctionel bas.
    Une fois à la couche inferieur de l'écran le joueur peut sauter à gauche si il se colle à la paroit
+
+   Insérer GIF du glitch
+
+   Dans le cas de l'exécution du one frame glitch sur les parois, le joueur devra se positioner comme sur l'image ci dessous
+   (À noter que l'image a unique but de montrer le positionnement général pour effectuer le clip)
+
+   Insérer image
+
+   Une fois positioné, le joueur devra répéter X fois la procédure suivante:
+
+   * appuyez sur la croix directionnel en direction de la parois d'un angle de 45° ainsi que sur la croix directionnel adjacente pointant elle aussi vers une parois 
+   * appuyez sur la croix directionnel en direction de la parois d'un angle de 45° ainsi que sur la croix directionnel adjacente pointant à l'opposée du mur
+
+   Après X fois, Link aura la possibilité de sauter par dessus la parois ce qui permettra à link de passer en explorer glitch.
+
+   Insertion GIF  link qui saute
+
+* ### Speedrunners et leurs temps
    
