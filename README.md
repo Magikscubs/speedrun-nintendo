@@ -8,23 +8,35 @@
 
 * Sommaire
 
-  * [Glitches et leurs avantages en speedrun][^1]
+  * Glitches et leurs avantages en speedrun
  
-  * [Les différents glitchs utilisés en speedrun][^2]
+  * Les différents glitchs utilisés en speedrun
  
-    * [L'explorer glitch][^3]
+    * L'explorer glitch
    
-    * [Son éxecution][^4]
+    * Son éxecution
       
-   * [Explication du glitch][^5]
+   * Explication du glitch
       
-   * [Le one frame clip][^6]
+   * Le one frame cli
 
-[^1]# [Glitches et leurs avantages en speedrun]
+# Glitches et leurs avantages en speedrun
    
-|Explorer Glitch|One frame clip|
-
-
+   Explorer glitch:
+   
+   - [X] Facile à mettre en place
+   - [X] Est rapide 
+   - [X] Facile à apprendre
+   - [X] Facile à comprendre
+   - [ ] Utile autre part qu'en speedrun
+     
+   One frame clip
+   
+   - [ ] Facile à mettre en place
+   - [X] Est rapide 
+   - [X] Facile à apprendre
+   - [ ] Facile à comprendre
+   - [X] Utile autre part qu'en speedrun
 
 `Les différents glitchs utilisés en speedrun`
 ------
